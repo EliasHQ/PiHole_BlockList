@@ -1,5 +1,5 @@
 # Made by @EliasHQ
-# Thank you for using enjo
+# Thank you for using enjoy
 # Update Gravity after adding a new list!!
 
 analytics-consent-manager.azureedge.net
